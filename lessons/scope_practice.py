@@ -12,3 +12,4 @@ def remove_chars(msg: str, char: str) -> str:
 if __name__ == "__main__":
     word: str = "yoyo"
     print((remove_chars(word, "o")))
+    print(word)
